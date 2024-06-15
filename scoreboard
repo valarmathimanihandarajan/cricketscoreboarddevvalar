@@ -24,6 +24,7 @@ int main()
 {
  int plno,choice;
   int i,n,m;
+ printf("Welcome to Valar's cricket Scoreboard"); 
   printf("Enter the Batsman detail:\n");
   printf("Enter the number of batsman:\n");
   scanf("%d",&m);
